@@ -1,4 +1,4 @@
-### Git Configuration
+### Git Configuration (need more explanation about platform and prerequisites)
 
 - **Set username globally:**
   ```bash
